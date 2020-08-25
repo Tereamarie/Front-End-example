@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
-    "server": "nodemon index.js"
+    "server": "nodemon index.js "
   },
   "repository": {
     "type": "git",
@@ -37,3 +37,4 @@
   "jest": {
     "testEnviroment": "node"
   }
+}
